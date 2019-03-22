@@ -3,3 +3,24 @@ rebase test in master
 
 
 rebase test in rebasetest分支
+
+another
+
+
+aaaa
+
+
+bbbb
+
+
+
+cccc
+
+
+mmmm
+
+
+nnnnn
+
+
+modify with statged
